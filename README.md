@@ -9,6 +9,7 @@
 
 ## General info
 It was my last project on the Udemy web dev course for beginners.
+I have used floats and clearfix 'hack'.
 
 ## Technologies
 * HTML
