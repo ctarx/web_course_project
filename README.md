@@ -19,4 +19,4 @@ I have used floats and clearfix 'hack'.
 Project inspired by...https://websamuraj.pl/
 
 ## Contact
-Created by [@ctarx](https://twitter.com/ctarx) - feel free to contact me!
+Created by [@ctarx](https://linuxrocks.online/@ctarx) - feel free to contact me!
